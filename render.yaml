@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: telegram-bot
-    runtime: python
-    buildCommand: ""
-    startCommand: python bot.py
-    region: oregon
-    plan: free
